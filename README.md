@@ -1,2 +1,21 @@
-# TV-model-blender
-A high-quality 3D TV model created in Blender, featuring clean topology, realistic materials, and detailed design suitable for rendering and visualization.
+# TV Model – Blender 3D Asset
+
+This repository contains a 3D TV model created using Blender.
+
+## How to Use
+1. Clone the repository:
+   git clone https://github.com/your-username/your-repo-name.git
+
+2. Open the project in Blender
+
+3. Do whatever you want with it 😄
+   (Edit it, render it, animate it, use it in your own projects, etc.)
+
+## Software
+- Blender
+
+## Notes
+This model was created for practice, learning, and portfolio purposes.
+
+Thanks for reading ❤️  
+Created by Amirali Granmayeh
