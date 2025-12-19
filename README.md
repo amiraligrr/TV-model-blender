@@ -3,9 +3,10 @@
 This repository contains a 3D TV model created using Blender.
 
 ## How to Use
-1. Clone the repository:
- ‍‍‍‍``` bash
-   git clone https://github.com/your-username/your-repo-name.git
+## Clone the repository:
+``` bash
+git clone https://github.com/amiraligrr/TV-model-blender/
+```
 
 4. Open the project in Blender
 
