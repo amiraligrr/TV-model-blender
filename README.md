@@ -4,11 +4,12 @@ This repository contains a 3D TV model created using Blender.
 
 ## How to Use
 1. Clone the repository:
+ ‍‍‍‍``` bash
    git clone https://github.com/your-username/your-repo-name.git
 
-2. Open the project in Blender
+4. Open the project in Blender
 
-3. Do whatever you want with it 😄
+5. Do whatever you want with it 😄
    (Edit it, render it, animate it, use it in your own projects, etc.)
 
 ## Software
